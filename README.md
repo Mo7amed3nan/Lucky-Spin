@@ -6,11 +6,10 @@ Play by placing bets, spinning the reels, and winning based on symbol multiplier
 ---
 
 ## 🚀 How to Play
+1. Download the latest release from [Releases](https://github.com/Mo7amed3nan/Lucky-Spin/releases/download/v1.0.0/lucky-spin.exe).
+2. Run `lucky-spin.exe` (it opens in your terminal).
+3. Enter your name, place your bet, and spin!
 
-1. Clone this repository or download it as a ZIP.
-2. Go to the `bin/` folder.
-3. Double-click `lucky-spin.exe` to start the game (it will run in your terminal).
-4. Enter your name, place your bet, and spin!
 
 ---
 
